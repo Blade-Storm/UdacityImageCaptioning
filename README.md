@@ -22,10 +22,12 @@ These are found in the [Notebook 3: Inference](UdacityImageCaptioning/3_Inferenc
 
 ### Good predictions
 ![image](./images/prediction1.png)
+
 ![image](./images/prediction2.png)
 
 ### Bad predictions
 ![image](./images/prediction3.png)
+
 ![image](./images/prediction4.png)
 
 LICENSE: This project is licensed under the terms of the MIT license.
